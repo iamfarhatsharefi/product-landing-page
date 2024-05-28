@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
 }
-  
+
   #header {
   display: flex;
   justify-content: space-between;
@@ -15,45 +15,44 @@ body {
   top: 0;
   width: 100%;
 }
-  
+
   #header-img {
   width: 100px;
   position: relative;
   z-index: 1;
 }
 
-  
-  #nav-bar ul {
+#nav-bar ul {
   display: flex;
   list-style-type: none;
   padding: 0;
 }
   
-  .nav-link {
+.nav-link {
   color: #fff;
   text-decoration: none;
   padding: 10px;
 }
-  
-  .nav-link:hover {
+
+.nav-link:hover {
   background-color: #555;
 }
-  
-  main {
+
+main {
   padding-top: 70px;
 }
-  
-  section {
+
+section {
   padding: 20px;
   margin: 20px 0;
   background-color: #f9f9f9;
 }
-  
-  #product-video {
+
+#product-video {
   text-align: center;
-  }
-  
-  @media (max-width: 600px) {
+}
+
+@media (max-width: 600px) {
     #nav-bar ul {
       flex-direction: column;
       align-items: center;
