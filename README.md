@@ -8,7 +8,7 @@ Gucci landing page
 This is a product landing page about Gucci italian luxury fashion brand.This page contains the HTML and CSS.
 
 ## Demo 📸
-https://www.linkedin.com/in/farhat-sharefi-13a101309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+![Screenshot](./WhatsApp%20Image%202024-05-29%20at%2004.53.05_2b5388af.jpg)
 
 ## Technologies Used 🛠️
 
