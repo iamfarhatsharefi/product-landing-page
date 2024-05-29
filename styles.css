@@ -22,11 +22,20 @@ body {
   width: 100px;
 }
 
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
 #nav-bar ul {
   display: flex;
   list-style-type: none;
   padding: 0;
   margin: 0;
+}
+
+li {
+  margin: 10px 0;
 }
 
 #nav-bar li {
@@ -47,7 +56,6 @@ body {
 
 main {
   padding-top: 80px;
-  padding: 20px;
 }
 
 section {
@@ -61,15 +69,6 @@ section {
 h1, h2 {
   color: #000;
   font-weight: 700;
-}
-
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-li {
-  margin: 10px 0;
 }
 
 #contact form {
