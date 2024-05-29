@@ -81,7 +81,8 @@ h1, h2 {
   font-weight: 700;
 }
 
-#contact input[type="email"], #contact input[type="submit"] {
+#contact input[type="email"],
+#contact input[type="submit"] {
   padding: 10px;
   margin-bottom: 10px;
   border: 1px solid #ccc;
